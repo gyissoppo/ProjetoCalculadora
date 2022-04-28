@@ -1,0 +1,10 @@
+C:\Users\gyovana.issoppo\source\repos\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+C:\Users\gyovana.issoppo\source\repos\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe
+C:\Users\gyovana.issoppo\source\repos\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.pdb
+C:\Users\gyovana.issoppo\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.AssemblyReference.cache
+C:\Users\gyovana.issoppo\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Form1.resources
+C:\Users\gyovana.issoppo\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Properties.Resources.resources
+C:\Users\gyovana.issoppo\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.GenerateResource.cache
+C:\Users\gyovana.issoppo\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\gyovana.issoppo\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+C:\Users\gyovana.issoppo\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
